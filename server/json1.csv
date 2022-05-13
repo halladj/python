@@ -1,0 +1,2 @@
+anti_glare,brand,cpu_brand,cpu_family,cpu_frequency,cpu_generation,cpu_modifier,cpu_number_identifier,gpu_brand,gpu_frequency,gpu_number_identifier,gpu_vram,gpu_words_identifier,hdd,ram,ram_frequency,ram_type,screen_refresh_rate,screen_resolution,screen_size,ssd,state,touch_screen
+False,hp,intel,u,1.3,11,i5,0,nvidia,900.0,3060,6,geforce rtx,0,8,2999.0,ddr4,60,fhd,14.0,128,False,False
